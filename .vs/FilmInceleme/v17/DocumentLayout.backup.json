@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\90553\\OneDrive\\Masa\u00FCst\u00FC\\ileri web\\FilmInceleme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77D6BF4E-03A4-409F-AC52-599358558BCA}|FilmInceleme.csproj|c:\\users\\90553\\onedrive\\masa\u00FCst\u00FC\\ileri web\\filminceleme\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D6BF4E-03A4-409F-AC52-599358558BCA}|FilmInceleme.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D6BF4E-03A4-409F-AC52-599358558BCA}|FilmInceleme.csproj|c:\\users\\90553\\onedrive\\masa\u00FCst\u00FC\\ileri web\\filminceleme\\views\\shared\\_sonyorumlar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77D6BF4E-03A4-409F-AC52-599358558BCA}|FilmInceleme.csproj|solutionrelative:views\\shared\\_sonyorumlar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D6BF4E-03A4-409F-AC52-599358558BCA}|FilmInceleme.csproj|c:\\users\\90553\\onedrive\\masa\u00FCst\u00FC\\ileri web\\filminceleme\\views\\film\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77D6BF4E-03A4-409F-AC52-599358558BCA}|FilmInceleme.csproj|solutionrelative:views\\film\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D6BF4E-03A4-409F-AC52-599358558BCA}|FilmInceleme.csproj|c:\\users\\90553\\onedrive\\masa\u00FCst\u00FC\\ileri web\\filminceleme\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77D6BF4E-03A4-409F-AC52-599358558BCA}|FilmInceleme.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D6BF4E-03A4-409F-AC52-599358558BCA}|FilmInceleme.csproj|c:\\users\\90553\\onedrive\\masa\u00FCst\u00FC\\ileri web\\filminceleme\\views\\film\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77D6BF4E-03A4-409F-AC52-599358558BCA}|FilmInceleme.csproj|solutionrelative:views\\film\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D6BF4E-03A4-409F-AC52-599358558BCA}|FilmInceleme.csproj|c:\\users\\90553\\onedrive\\masa\u00FCst\u00FC\\ileri web\\filminceleme\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D6BF4E-03A4-409F-AC52-599358558BCA}|FilmInceleme.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D6BF4E-03A4-409F-AC52-599358558BCA}|FilmInceleme.csproj|c:\\users\\90553\\onedrive\\masa\u00FCst\u00FC\\ileri web\\filminceleme\\controllers\\yorumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D6BF4E-03A4-409F-AC52-599358558BCA}|FilmInceleme.csproj|solutionrelative:controllers\\yorumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\90553\\OneDrive\\Masa\u00FCst\u00FC\\ileri web\\FilmInceleme\\Views\\Film\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Film\\Index.cshtml",
+              "ToolTip": "C:\\Users\\90553\\OneDrive\\Masa\u00FCst\u00FC\\ileri web\\FilmInceleme\\Views\\Film\\Index.cshtml",
+              "RelativeToolTip": "Views\\Film\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T20:17:19.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_SonYorumlar.cshtml",
+              "DocumentMoniker": "C:\\Users\\90553\\OneDrive\\Masa\u00FCst\u00FC\\ileri web\\FilmInceleme\\Views\\Shared\\_SonYorumlar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_SonYorumlar.cshtml",
+              "ToolTip": "C:\\Users\\90553\\OneDrive\\Masa\u00FCst\u00FC\\ileri web\\FilmInceleme\\Views\\Shared\\_SonYorumlar.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_SonYorumlar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T14:24:46.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\90553\\OneDrive\\Masa\u00FCst\u00FC\\ileri web\\FilmInceleme\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\90553\\OneDrive\\Masa\u00FCst\u00FC\\ileri web\\FilmInceleme\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwBwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:55:08.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\90553\\OneDrive\\Masa\u00FCst\u00FC\\ileri web\\FilmInceleme\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\90553\\OneDrive\\Masa\u00FCst\u00FC\\ileri web\\FilmInceleme\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T10:01:56.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\90553\\OneDrive\\Masa\u00FCst\u00FC\\ileri web\\FilmInceleme\\Views\\Film\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Film\\Create.cshtml",
+              "ToolTip": "C:\\Users\\90553\\OneDrive\\Masa\u00FCst\u00FC\\ileri web\\FilmInceleme\\Views\\Film\\Create.cshtml",
+              "RelativeToolTip": "Views\\Film\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwCAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T10:24:42.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "YorumController.cs",
+              "DocumentMoniker": "C:\\Users\\90553\\OneDrive\\Masa\u00FCst\u00FC\\ileri web\\FilmInceleme\\Controllers\\YorumController.cs",
+              "RelativeDocumentMoniker": "Controllers\\YorumController.cs",
+              "ToolTip": "C:\\Users\\90553\\OneDrive\\Masa\u00FCst\u00FC\\ileri web\\FilmInceleme\\Controllers\\YorumController.cs",
+              "RelativeToolTip": "Controllers\\YorumController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:36:46.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\90553\\OneDrive\\Masa\u00FCst\u00FC\\ileri web\\FilmInceleme\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\90553\\OneDrive\\Masa\u00FCst\u00FC\\ileri web\\FilmInceleme\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:00:19.421Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

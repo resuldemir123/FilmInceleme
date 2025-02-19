@@ -1,0 +1,11 @@
+﻿@model IEnumerable<FilmInceleme.Models.Yorum>
+
+<div class="list-group">
+    <h3>Son Yorumlar</h3>
+    @foreach (var yorum in Model)
+    {
+        <div class="list-group-item">
+            <strong>@yorum.Film?.Adı:</strong> @yorum.Icerik
+        </div>
+    }
+</div>
